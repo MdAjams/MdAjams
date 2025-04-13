@@ -42,6 +42,53 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=tokyonight" />
 </p>
+## 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  
+  <!-- Data Libraries -->
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+
+  <!-- Visualization -->
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+  </a>
+
+  <!-- BI & Excel -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
+  </a>
+
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+
+</p>
 
 ---
 
