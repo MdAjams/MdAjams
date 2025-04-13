@@ -1,11 +1,14 @@
+## 🧊 Data Analytics Chillin'
+
 <p align="center">
   <a href="https://github.com/MdAjams">
-    <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Data Analytics Chilling" />
+    <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Data Analytics Chillin'" />
   </a>
 </p>
 
 <p align="center">
-  Kickin' back while the data does the talking 😎📊
+  <b>Data Analytics Chillin' 😎📊</b><br>
+  Sippin’ coffee & letting the data tell the story.
 </p>
 
 
