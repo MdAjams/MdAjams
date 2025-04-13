@@ -45,14 +45,14 @@
 --- 
 ## 💼 Projects
 
-- 🎯 **Water Potability Analysis**: Analyzed water quality and predicted potability, with Power BI dashboards to provide interactive insights on water quality trends and predictions.
+  - 🎯 **Water Potability Analysis**: Analyzed water quality and predicted potability, with Power BI dashboards to provide interactive insights on water quality trends and predictions.
+    
+  - ⚡ **Indian EV Market Analysis**: Explored trends and predicted future growth in India's electric vehicle market, with interactive dashboards built using Streamlit for visualization.
   
-- ⚡ **Indian EV Market Analysis**: Explored trends and predicted future growth in India's electric vehicle market, with interactive dashboards built using Streamlit for visualization.
-
-- ✈️ **Airline Profitability Prediction**: Analyzed airline profitability based on financial and operational data, using Streamlit to create an interactive dashboard to visualize insights.
-
-- 🌦️ **Weather Forecasting Using Data Analysis**: Predicted weather conditions using machine learning models and visualized trends with Power BI to create interactive weather forecasting dashboards.
-- And many more...
+  - ✈️ **Airline Profitability Prediction**: Analyzed airline profitability based on financial and operational data, using Streamlit to create an interactive dashboard to visualize insights.
+  
+  - 🌦️ **Weather Forecasting Using Data Analysis**: Predicted weather conditions using machine learning models and visualized trends with Power BI to create interactive weather forecasting dashboards.
+  - And many more...
 
 
 
