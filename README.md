@@ -1,6 +1,13 @@
-[![Data Analytics Chilling](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)](https://github.com/MdAjams)
+<p align="center">
+  <a href="https://github.com/MdAjams">
+    <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Data Analytics Chilling" />
+  </a>
+</p>
 
-Kickin' back while the data does the talking 😎📊
+<p align="center">
+  Kickin' back while the data does the talking 😎📊
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
