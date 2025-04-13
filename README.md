@@ -42,31 +42,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+--- 
+## 💼 Projects
 
----
-## 🚰 Water Potability Analysis
-- Analyzed water quality and predicted potability using machine learning and Power BI for data visualization.
-- **Technologies Used**: Power BI, Python (Pandas, Scikit-learn), Logistic Regression, Random Forest.
+- 🎯 **Water Potability Analysis**: Analyzed water quality and predicted potability, with Power BI dashboards to provide interactive insights on water quality trends and predictions.
+  
+- ⚡ **Indian EV Market Analysis**: Explored trends and predicted future growth in India's electric vehicle market, with interactive dashboards built using Streamlit for visualization.
 
----
+- ✈️ **Airline Profitability Prediction**: Analyzed airline profitability based on financial and operational data, using Streamlit to create an interactive dashboard to visualize insights.
 
-## ⚡ Indian EV Market Analysis
-- Explored trends in the Indian Electric Vehicle market and predicted growth using data analysis and Streamlit dashboards.
-- **Technologies Used**: Python (Pandas, Numpy), Streamlit, Data Visualization.
+- 🌦️ **Weather Forecasting Using Data Analysis**: Predicted weather conditions using machine learning models and visualized trends with Power BI to create interactive weather forecasting dashboards.
+- And many more...
 
----
 
-## ✈️ Airline Profitability Prediction
-- Predicted airline profitability based on financial and operational data with Streamlit dashboards for visualization.
-- **Technologies Used**: Python (Pandas, Numpy), Streamlit, Random Forest.
 
 ---
 
-## 🌦️ Weather Forecasting Using Data Analysis
-- Predicted weather conditions using machine learning models and visualized trends with Power BI dashboards.
-- **Technologies Used**: Power BI, Python (Pandas, Numpy), Decision Trees, KNN.
-
----
 
 ### 🔥 GitHub Stats:
 <p align="center">
