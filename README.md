@@ -44,44 +44,27 @@
 </p>
 
 ---
-## Projects
-
-### 🚰 Water Potability Analysis
-Analyzing water quality and predicting potability, with Power BI dashboards to provide interactive insights on water quality trends and predictions.
-
-**Technologies Used:**
-- Power BI
-- Data Cleaning & Transformation
+## 🚰 Water Potability Analysis
+- Analyzed water quality and predicted potability using machine learning and Power BI for data visualization.
+- **Technologies Used**: Power BI, Python (Pandas, Scikit-learn), Logistic Regression, Random Forest.
 
 ---
 
-### ⚡ Indian EV Market Analysis
-Exploring trends and predicting future growth in India's electric vehicle market, with interactive dashboards built using Streamlit for visualization.
-
-**Technologies Used:**
-- Python
-- Pandas, Numpy
-- Streamlit for dashboarding
+## ⚡ Indian EV Market Analysis
+- Explored trends in the Indian Electric Vehicle market and predicted growth using data analysis and Streamlit dashboards.
+- **Technologies Used**: Python (Pandas, Numpy), Streamlit, Data Visualization.
 
 ---
 
-### ✈️ Airline Profitability Prediction
-Analyzing airline profitability based on financial and operational data, using Streamlit to create an interactive dashboard to visualize insights.
-
-**Technologies Used:**
-- Python
-- Pandas, Numpy
-- Streamlit for dashboarding
+## ✈️ Airline Profitability Prediction
+- Predicted airline profitability based on financial and operational data with Streamlit dashboards for visualization.
+- **Technologies Used**: Python (Pandas, Numpy), Streamlit, Random Forest.
 
 ---
 
-### 🌦️ Weather Forecasting Using Data Analysis
-Predicting weather conditions using machine learning models and visualizing trends with Power BI to create interactive weather forecasting dashboards.
-
-**Technologies Used:**
-- Power BI
-- Machine Learning: Decision Trees, KNN
-- Data Analysis & Visualization
+## 🌦️ Weather Forecasting Using Data Analysis
+- Predicted weather conditions using machine learning models and visualized trends with Power BI dashboards.
+- **Technologies Used**: Power BI, Python (Pandas, Numpy), Decision Trees, KNN.
 
 ---
 
