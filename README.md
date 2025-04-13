@@ -1,4 +1,8 @@
-![Data Analytics Animation]([https://media.tenor.com/your-selected-gif.gif](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif))
+## 🧠 Data Analytics Chilling
+
+[![Data Analytics Chilling](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)](https://github.com/MdAjams)
+
+Kickin' back while the data does the talking 😎📊
 
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
