@@ -1,3 +1,6 @@
+![Data Analytics Animation](https://media.tenor.com/your-selected-gif.gif)
+
+
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
