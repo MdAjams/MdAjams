@@ -1,4 +1,4 @@
-![Data Analytics Animation](https://media.tenor.com/your-selected-gif.gif)
+![Data Analytics Animation]([https://media.tenor.com/your-selected-gif.gif](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif))
 
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
