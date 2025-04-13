@@ -1,5 +1,3 @@
-## 🧠 Data Analytics Chilling
-
 [![Data Analytics Chilling](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)](https://github.com/MdAjams)
 
 Kickin' back while the data does the talking 😎📊
