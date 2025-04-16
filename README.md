@@ -1,6 +1,5 @@
-<a href="https://github.com/MdAjams">
-  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Data Analytics Chillin'" width="100%" />
-</a>
+![Banner](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)
+
 
 
 <p align="center">
