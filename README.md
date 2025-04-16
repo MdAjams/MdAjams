@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)
+<img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Data Analytics Chillin'" width="100%">
+
 
 
 
