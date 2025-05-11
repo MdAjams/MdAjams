@@ -73,17 +73,25 @@
 ---
 
 
-### 🔥 GitHub Stats:
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAjams&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAjams&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
----
+<!-- Most Used Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAjams&theme=radical" alt="GitHub streak"/>
+</p>
 
 > 🚀 “Analyze with purpose. Visualize with passion.”  
-> – *Md Ajam, Future Data King 👑*
+> – *Md Ajam, Future Data Analyst*
 
 ---
 
