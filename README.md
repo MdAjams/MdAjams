@@ -1,7 +1,4 @@
-<!-- Centered and resized GIF banner -->
-
-  ![Banner]"https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" )
-  <p alt="Data Analytics Chillin'" 
+![Banner](https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif)
 
 ---
 
