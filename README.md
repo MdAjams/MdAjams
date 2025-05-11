@@ -1,9 +1,8 @@
 <!-- Centered and resized GIF banner -->
-<p align="center">
+
   ![Banner]"https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" )
   <p alt="Data Analytics Chillin'" 
-       width="600" </p>
-</p>
+
 ---
 
 ### Hi 👋, I'm **MD AJAM**
