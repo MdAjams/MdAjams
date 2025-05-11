@@ -2,62 +2,6 @@
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" 
        alt="Data Analytics Chillin'" 
        width="600" />
-</p>
-
----
-
-### Hi 👋, I'm **MD AJAM**
-
-A passionate Data Analyst from India 🇮🇳  
-Specializing in SQL, Power BI, Excel, Python, and Data Visualization 📊
-
----
-
-- 🌱 I’m currently learning **Advanced Data Analytics & Dashboarding**
-- 💬 Ask me about **Data Cleaning, EDA, SQL Joins, Power BI, and Python Libraries**
-- 📫 How to reach me: [mdajams@gmail.com](mailto:mdajams@gmail.com)
-- 👨‍💻 All of my projects are available at: [github.com/MdAjams](https://github.com/MdAjams)
-
----
-
-### 🛠️ Skills & Tools
-
-- 💾 SQL (MySQL, PostgreSQL)
-- 📊 Power BI, Excel (Pivot Tables, Dashboards)
-- 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 📈 Data Analysis & Visualization
-- 📂 Git & GitHub
-
----
-
-### 📌 Projects
-
-- 🚗 **Indian EV Market Analysis** – Trends, growth, and charging infra
-- 💧 **Water Potability Prediction** – ML model to classify safe/unsafe water
-- 🛫 **Airline Profit Dashboard** – Analyzed airline sales using Power BI
-- 🎧 **M.X.M.H. Survey EDA** – Mood analysis based on music preferences
-
----
-
-### 📜 Certifications
-
-- ✅ SQL (HackerRank)
-- 📊 Power BI (Masai School Project)
-- 📘 Excel Dashboarding (Masai LMS)
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mdajams" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:mdajams@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
-
-
-
-
-
 
 <p align="center">
   <b>Data Analytics Chillin' 😎📊</b><br>
