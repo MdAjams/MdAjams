@@ -84,7 +84,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
-
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAjams&theme=radical" alt="GitHub streak"/>
