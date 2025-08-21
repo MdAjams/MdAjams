@@ -22,12 +22,25 @@
 
 Feel free to connect with me and explore data-related projects I've worked on!  
 
-## 🌐 Socials:   
-<p align="center" dir="auto">  
-<a href="https://www.linkedin.com/in/mdajam/" rel="nofollow"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:mdajamansari099@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-<a href="https://github.com/MdAjams"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+## 🌐 Socials  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/mdajam/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mdajamansari099@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/MdAjams" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://md-ajam-ali.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-portfolio-job-search-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/mdajamansari099" target="_blank">
+    <img src="https://img.icons8.com/windows/48/00C853/hackerrank.png" alt="HackerRank"/>
+  </a>
 </p>
+
 
 # 💻 Skills  
 
