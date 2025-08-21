@@ -36,7 +36,7 @@ Feel free to connect with me and explore data-related projects I've worked on!
 ## 🛠️ Skills  
 
 **Programming & Analytics**  
-`Python` • `SQL` • `Microsoft Excel` • `R` • `Git`  
+`Python` • `SQL` • `Microsoft Excel` • `Git`  
 
 **Libraries & Frameworks**  
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
@@ -45,7 +45,7 @@ Feel free to connect with me and explore data-related projects I've worked on!
 `Power BI` • `Tableau` • `Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Data Visualization`  
 
 **Machine Learning**  
-`Regression` • `Classification` • `Time-Series Forecasting`  
+`Regression` • `Classification`  
 
 **Business & Domain Knowledge**  
 `Finance` • `Healthcare` • `EV Market` • `Business Strategy` • `Business Intelligence`  
@@ -58,7 +58,7 @@ Feel free to connect with me and explore data-related projects I've worked on!
 
 ## 📌 Featured Projects  
 
-### 🔹 [Loan Eligibility Prediction](https://github.com/MdAjams/Loan-Eligibility)  
+### 🔹 [Automated-Loan-Eligibility-System-Python-ML-Power-BI](https://github.com/MdAjams/Loan-Eligibility)  
 ✅ ML model predicting loan approvals  
 ✅ Tech: Python, Pandas, Scikit-learn  
 ✅ Business Impact: Helps banks **automate risk assessment**  
