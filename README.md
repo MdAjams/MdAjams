@@ -22,15 +22,14 @@
 
 Feel free to connect with me and explore data-related projects I've worked on!  
 
-## 🌐 Socials:  
-## Connect with Me  
+## 🌐 Socials:   
 <p align="center" dir="auto">  
 <a href="https://www.linkedin.com/in/mdajam/" rel="nofollow"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:mdajamansari099@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href="https://github.com/MdAjams"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
 </p>
 
-# 💻 Technical Skills  
+# 💻 Skills  
 
 ### Programming & Libraries  
 <p align="center">
