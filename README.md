@@ -30,7 +30,6 @@ Feel free to connect with me and explore data-related projects I've worked on!
 <a href="https://github.com/MdAjams"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
 </p>
 
-# 💻 Tech Stack:  
 # 💻 Technical Skills  
 
 ### Programming & Libraries  
@@ -38,15 +37,15 @@ Feel free to connect with me and explore data-related projects I've worked on!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/seaborn.png" width="50" height="50" alt="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit-learn"/>
 </p>
 
 ### Data Tools  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter Notebook"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="90" height="40" alt="Streamlit"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90" height="40" alt="Streamlit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </p>
@@ -66,9 +65,10 @@ Feel free to connect with me and explore data-related projects I've worked on!
   <img src="https://img.icons8.com/color/48/data-configuration.png" width="50" height="50" alt="Data Cleaning"/>
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50" alt="Exploratory Data Analysis"/>
   <img src="https://img.icons8.com/color/48/combo-chart.png" width="50" height="50" alt="Data Visualization"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-business-intelligence-business-management-soft-fill-soft-fill-juicy-fish.png" width="50" height="50" alt="Business Intelligence"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-report-data-analytics-flaticons-flat-flat-icons.png" width="50" height="50" alt="Reporting & Insights"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="50" height="50" alt="Business Intelligence"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="50" height="50" alt="Reporting & Insights"/>
 </p>
+
 
 
 
