@@ -32,25 +32,45 @@ Feel free to connect with me and explore data-related projects I've worked on!
 
 # 💻 Tech Stack:  
 # 💻 Technical Skills  
+
+### Programming & Libraries  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-ai-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" alt="Machine Learning" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://img.icons8.com/color/48/seaborn.png" width="50" height="50" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="scikit-learn"/>
+</p>
+
+### Data Tools  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter Notebook"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="90" height="40" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+</p>
+
+### BI & Analytics Tools  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50" alt="Tableau"/>
 </p>
 
 ---
 
 # 📊 Business & Analytical Skills  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Cleaning"/>
-  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" alt="Exploratory Data Analysis"/>
-  <img src="https://img.icons8.com/color/48/combo-chart.png" alt="Data Visualization"/>
-  <img src="https://img.icons8.com/fluency/48/business-intelligence.png" alt="Business Intelligence"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-report-data-analytics-flaticons-flat-flat-icons.png" alt="Reports & Insights" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/data-configuration.png" width="50" height="50" alt="Data Cleaning"/>
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50" alt="Exploratory Data Analysis"/>
+  <img src="https://img.icons8.com/color/48/combo-chart.png" width="50" height="50" alt="Data Visualization"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-business-intelligence-business-management-soft-fill-soft-fill-juicy-fish.png" width="50" height="50" alt="Business Intelligence"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-report-data-analytics-flaticons-flat-flat-icons.png" width="50" height="50" alt="Reporting & Insights"/>
 </p>
+
+
 
 
 **Looking forward to connecting with fellow data enthusiasts and professionals!**
