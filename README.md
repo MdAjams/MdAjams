@@ -1,21 +1,27 @@
-<!-- Profile README for Md Ajam -->
+🚀 Data Analyst | Business Analyst | Enthusiast of Data-Driven Insights  
+
+![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">🚀 Data Analyst | Business Analyst | Turning Data into Actionable Insights</h3>
+<h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAjams&label=Profile%20views&color=0e75b6&style=flat" alt="MdAjams" /> </p>
 
----
+- 🔨 I’ve completed **Data Analyst Internship at Deloitte** and **Business Analyst Internship at Tata Group**.  
+  - **ETL**: Extracted, transformed, and loaded data using **SQL, Excel, and Python**.  
+  - Developed and maintained **interactive Power BI dashboards** for business metrics.  
+  - Collaborated with teams to ensure accurate **data reporting and analysis**.  
+  - Improved **data quality and efficiency** with optimized reporting pipelines.  
 
-## 🌟 About Me
-🔹 Aspiring Data Analyst passionate about **transforming raw data into actionable business insights**  
-🔹 Skilled in **SQL, Python, Power BI, Machine Learning, and Forecasting**  
-🔹 Internship experience in **Data Analytics & Business Analysis** (Deloitte, Saiket Systems, Mirai School of Tech)  
-🔹 Excited to contribute to **UAE & Saudi Arabia’s Vision 2030 digital transformation** with data-driven solutions  
+- 🚀 Currently learning **Advanced Machine Learning & Time-Series Forecasting**.  
+- 🤝 Looking to collaborate on **Data-Driven Business Solutions** and **Impact Analysis**.  
+- 📊 Ask me about **SQL, EDA, Predictive Modeling, and Business Intelligence**.  
+- 📧 Reach me at **mdajamansari099@gmail.com**.  
+- 🌟 Excited about working on **innovative international data projects** and connecting with global data professionals.  
 
----
+Feel free to connect with me and explore data-related projects I've worked on!  
+
 
 ## 🌐 Connect with Me  
 <p align="center">
