@@ -1,4 +1,4 @@
-🚀 Data Analyst | Problem Solver | Enthusiast of Data-Driven Insights  
+🚀 Data Analyst | Business Analyst | Enthusiast of Data-Driven Insights  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
@@ -24,9 +24,6 @@ Feel free to connect with me and explore data-related projects I've worked on!
 
 ## 🌐 Socials:  
 ## Connect with Me  
-
-- LinkedIn: [https://www.linkedin.com/in/mdajam/](https://www.linkedin.com/in/mdajam/)  
-
 <p align="center" dir="auto">  
 <a href="https://www.linkedin.com/in/mdajam/" rel="nofollow"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:mdajamansari099@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
@@ -34,14 +31,26 @@ Feel free to connect with me and explore data-related projects I've worked on!
 </p>
 
 # 💻 Tech Stack:  
-<p align="center" dir="auto">  
-    <a href="https://www.python.org"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.mysql.com/"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://powerbi.microsoft.com/"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
-    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/"><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-ai-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" width="40" height="40"/> </a>
+# 💻 Technical Skills  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-ai-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" alt="Machine Learning" width="48" height="48"/>
 </p>
+
+---
+
+# 📊 Business & Analytical Skills  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Cleaning"/>
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" alt="Exploratory Data Analysis"/>
+  <img src="https://img.icons8.com/color/48/combo-chart.png" alt="Data Visualization"/>
+  <img src="https://img.icons8.com/fluency/48/business-intelligence.png" alt="Business Intelligence"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-report-data-analytics-flaticons-flat-flat-icons.png" alt="Reports & Insights" width="48" height="48"/>
+</p>
+
 
 **Looking forward to connecting with fellow data enthusiasts and professionals!**
