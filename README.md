@@ -1,28 +1,28 @@
-🚀 Data Analyst | Business Analyst | Enthusiast of Data-Driven Insights  
+🚀 Data Analyst | Business Analyst | Turning Data into Actionable Insights  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
+<h3 align="center">Empowering Businesses with Data-Driven Decisions</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAjams&label=Profile%20views&color=0e75b6&style=flat" alt="MdAjams" /> </p>
 
-- 🔨 I’ve completed **Data Analyst Internship at Deloitte** and **Business Analyst Internship at Tata Group**.  
-  - **ETL**: Extracted, transformed, and loaded data using **SQL, Excel, and Python**.  
-  - Developed and maintained **interactive Power BI dashboards** for business metrics.  
-  - Collaborated with teams to ensure accurate **data reporting and analysis**.  
-  - Improved **data quality and efficiency** with optimized reporting pipelines.  
+---
 
-- 🚀 Currently learning **Advanced Machine Learning & Time-Series Forecasting**.  
-- 🤝 Looking to collaborate on **Data-Driven Business Solutions** and **Impact Analysis**.  
-- 📊 Ask me about **SQL, EDA, Predictive Modeling, and Business Intelligence**.  
-- 📧 Reach me at **mdajamansari099@gmail.com**.  
-- 🌟 Excited about working on **innovative international data projects** and connecting with global data professionals.  
+## 🧑‍💻 About Me  
+- 🔨 Completed **Data Analyst Internship at Deloitte** and **Business Analyst Internship at Tata Group**  
+  - Performed **ETL (SQL, Excel, Python)** on complex datasets  
+  - Built & automated **Power BI dashboards** tracking KPIs for business teams  
+  - Improved **data accuracy & reporting pipelines**, boosting efficiency  
+- 📚 Currently exploring **Advanced Machine Learning & Time-Series Forecasting**  
+- 🤝 Open to collaborate on **Data Analytics, BI Dashboards, and Predictive Modeling**  
+- 🌍 Excited to contribute to **UAE & Saudi data projects** aligned with digital transformation & Vision 2030  
+- 📧 Reach me at **mdajamansari099@gmail.com**  
 
-Feel free to connect with me and explore data-related projects I've worked on!  
+---
 
-## 🌐 Socials  
+## 🌐 Connect with Me  
 <p align="center">  
   <a href="https://www.linkedin.com/in/mdajam/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
@@ -41,8 +41,9 @@ Feel free to connect with me and explore data-related projects I've worked on!
   </a>
 </p>
 
+---
 
-# 💻 Skills  
+# 💻 Technical Skills  
 
 ### Programming & Libraries  
 <p align="center">
@@ -78,11 +79,4 @@ Feel free to connect with me and explore data-related projects I've worked on!
   <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50" alt="Exploratory Data Analysis"/>
   <img src="https://img.icons8.com/color/48/combo-chart.png" width="50" height="50" alt="Data Visualization"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="50" height="50" alt="Business Intelligence"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="50" height="50" alt="Reporting & Insights"/>
-</p>
-
-
-
-
-
-**Looking forward to connecting with fellow data enthusiasts and professionals!**
+  <img src="https
