@@ -36,16 +36,23 @@ Feel free to connect with me and explore data-related projects I've worked on!
 ## 🛠️ Skills  
 
 **Programming & Analytics**  
-`Python` • `SQL` • `R` • `Git`  
+`Python` • `SQL` • `Microsoft Excel` • `R` • `Git`  
 
-**Data Visualization & BI Tools**  
-`Power BI` • `Tableau` • `Excel` • `Matplotlib` • `Seaborn`  
+**Libraries & Frameworks**  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
+
+**Data Visualization & Business Intelligence**  
+`Power BI` • `Tableau` • `Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Data Visualization`  
 
 **Machine Learning**  
-`Scikit-learn` • `Regression` • `Classification` • `Time-Series Forecasting`  
+`Regression` • `Classification` • `Time-Series Forecasting`  
 
 **Business & Domain Knowledge**  
-`Finance` • `Healthcare` • `EV Market` • `Business Strategy`  
+`Finance` • `Healthcare` • `EV Market` • `Business Strategy` • `Business Intelligence`  
+
+**Soft Skills**  
+`Problem Solving` • `Time Management` • `Teamwork` • `Effective Communication`  
+
 
 ---
 
@@ -86,5 +93,6 @@ Feel free to connect with me and explore data-related projects I've worked on!
 </p>
 
 ---
+**Looking forward to connecting with fellow data enthusiasts and professionals!**
 
 ⭐️ From [Md Ajam](https://github.com/mdAjams)
