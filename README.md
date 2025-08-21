@@ -1,68 +1,39 @@
 <!-- MasterHead -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/e36c8a07df1fe59109ac7a2619a198258c21e887fc0f800ed05d93d998e78897/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f64616f6e6c696e652e676966" alt="Data Analyst" width=1600"/>
-</p>
+![MasterHead](https://camo.githubusercontent.com/48dc20b16bfc8b9c40b546d656da74c2e4f2a605ceacb656b7cbe29ff5b76a1b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133363136392f73637265656e73686f74732f363937303338332f6769746875622d62616e6e65722d696d616765732d646576656c6f7065722e676966)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">🚀 Data Analyst | Problem Solver | Enthusiast of Data-Driven Insights</h3>
+<h3 align="center">🚀 Aspiring Data Analyst | Business Intelligence | Problem Solver</h3>
 
 ---
 
-### 👨‍💻 About Me  
-- 🔨 I’m currently working on **Business Analyst Internship at Saiket Systems** and completed a **Data Analyst Internship at Mirai School of Technology**.  
-- 📊 I specialize in **SQL, Power BI, and Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)**.  
-- ⚡ Projects include: **EV Market Analysis, Lung Cancer Prediction, Loan Eligibility Forecast, and forecasterX (Weather Prediction)**.  
-- 🛠 Experienced in **ETL, EDA, building dashboards, and applying ML models for business use cases**.  
-- 🌱 I’m currently learning **Advanced Machine Learning & Time-Series Forecasting**.  
-- 🤝 I’m looking to collaborate on **Data-Driven Business Solutions and Impact Analysis**.  
-- 💬 Ask me about **Exploratory Data Analysis, Predictive Modeling, and Business Intelligence**.  
-- 📧 Reach me at **mdajamansari099@gmail.com**.  
-- 🌟 Excited about working on **innovative international data projects** and connecting with global data professionals.  
+# 💫 About Me:
+<img align="left" alt="Laptop" width="200" src="https://camo.githubusercontent.com/19287d182818e56ea9fe597a42c15b5d377c79cb3c780285cf6c9176d94bc6bb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313931352f6d656469612f65366362376563386433336638356565393363346432633861316430383831632e676966" />
+
+👋 Hi, I'm **Md Ajam**  
+🚀 Data Analyst | Problem Solver | Business Intelligence Enthusiast  
+
+🔍 Passionate about analyzing data to drive insights & decision-making.  
+📊 Skilled in **SQL, Python, Power BI, ML Basics**.  
+📈 Experienced with building dashboards, forecasting models & real-world projects.  
+
+📚 Currently Exploring **Machine Learning & BI Automation**  
+💡 Curious Mind | 📊 Data Storyteller | 🤝 Open to Collaborations  
+
+<br clear="left"/>
 
 ---
 
-### 🛠 Tech Stack  
-- **Languages & Libraries**: Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **Visualization Tools**: Power BI, Excel, Streamlit  
-- **ETL & Workflow**: Data Cleaning, Label Encoding, Feature Engineering  
-- **Special Focus**: Forecasting, Dashboard Automation, and Stakeholder Insights  
-
----
-
-### 🚀 Featured Projects  
-- [**EV Market Forecast Dashboard**](https://github.com/MdAjams) – SQL + Power BI dashboards forecasting EV adoption trends  
-- [**Lung Cancer Predictor**](https://github.com/MdAjams) – Python ML model with intuitive visualizations  
-- [**Loan Eligibility ForecasterX**](https://github.com/MdAjams/forecasterX) – Time-series forecasting with dashboard + API showcase  
-- [**Weather Forecasting (forecasterX)**](https://github.com/MdAjams/forecasterX) – Automated predictions via FastAPI + Power BI visualization  
-
----
-
-### 🌐 Connect With Me  
+# 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mdajam/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Md Ajam LinkedIn"/>
-</a>
-<a href="mailto:mdajamansari099@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Md Ajam Gmail"/>
-</a>
-<a href="https://github.com/MdAjams" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="Md Ajam GitHub"/>
-</a>
+<a href="https://linkedin.com/in/mdajam" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:mdajamansari099@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/MdAjams" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAjams&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAjams&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <b>“Data with purpose, visuals with passion.”</b> – Md Ajam
-</p>
+# 💻 Skills:
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=sql" height="40"/> 
+  <img
