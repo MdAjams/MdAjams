@@ -1,82 +1,84 @@
-🚀 Data Analyst | Business Analyst | Turning Data into Actionable Insights  
-
-![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
+<!-- Profile README for Md Ajam -->
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Empowering Businesses with Data-Driven Decisions</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<h3 align="center">🚀 Data Analyst | Business Analyst | Turning Data into Actionable Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAjams&label=Profile%20views&color=0e75b6&style=flat" alt="MdAjams" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🔨 Completed **Data Analyst Internship at Deloitte** and **Business Analyst Internship at Tata Group**  
-  - Performed **ETL (SQL, Excel, Python)** on complex datasets  
-  - Built & automated **Power BI dashboards** tracking KPIs for business teams  
-  - Improved **data accuracy & reporting pipelines**, boosting efficiency  
-- 📚 Currently exploring **Advanced Machine Learning & Time-Series Forecasting**  
-- 🤝 Open to collaborate on **Data Analytics, BI Dashboards, and Predictive Modeling**  
-- 🌍 Excited to contribute to **UAE & Saudi data projects** aligned with digital transformation & Vision 2030  
-- 📧 Reach me at **mdajamansari099@gmail.com**  
+## 🌟 About Me
+🔹 Aspiring Data Analyst passionate about **transforming raw data into actionable business insights**  
+🔹 Skilled in **SQL, Python, Power BI, Machine Learning, and Forecasting**  
+🔹 Internship experience in **Data Analytics & Business Analysis** (Deloitte, Saiket Systems, Mirai School of Tech)  
+🔹 Excited to contribute to **UAE & Saudi Arabia’s Vision 2030 digital transformation** with data-driven solutions  
 
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">  
-  <a href="https://www.linkedin.com/in/mdajam/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mdajamansari099@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/MdAjams" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://md-ajam-ali.netlify.app/" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-portfolio-job-search-flaticons-lineal-color-flat-icons.png" alt="Portfolio"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/mdajamansari099" target="_blank">
-    <img src="https://img.icons8.com/windows/48/00C853/hackerrank.png" alt="HackerRank"/>
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdajam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:mdajamansari099@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <a href="https://github.com/mdAjams"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a href="https://www.hackerrank.com/profile/mdajamansari099"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
 </p>
 
 ---
 
-# 💻 Technical Skills  
+## 🛠️ Skills  
 
-### Programming & Libraries  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="scikit-learn"/>
-</p>
+**Programming & Analytics**  
+`Python` • `SQL` • `R` • `Git`  
 
-### Data Tools  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter Notebook"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90" height="40" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-</p>
+**Data Visualization & BI Tools**  
+`Power BI` • `Tableau` • `Excel` • `Matplotlib` • `Seaborn`  
 
-### BI & Analytics Tools  
+**Machine Learning**  
+`Scikit-learn` • `Regression` • `Classification` • `Time-Series Forecasting`  
+
+**Business & Domain Knowledge**  
+`Finance` • `Healthcare` • `EV Market` • `Business Strategy`  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 [Loan Eligibility Prediction](https://github.com/MdAjams/Loan-Eligibility)  
+✅ ML model predicting loan approvals  
+✅ Tech: Python, Pandas, Scikit-learn  
+✅ Business Impact: Helps banks **automate risk assessment**  
+
+---
+
+### 🔹 [Lung Cancer Prediction](https://github.com/MdAjams/Lung-Cancer-Prediction)  
+✅ Early-stage detection using ML models  
+✅ Tech: Python, ML, Visualization  
+✅ Domain: **Healthcare analytics**  
+
+---
+
+### 🔹 [Indian EV Market Analysis](https://github.com/MdAjams/EV-Market-India)  
+✅ Exploratory Data Analysis on EV adoption in India  
+✅ Dashboard: **Power BI with interactive insights**  
+✅ Domain: **Automobile & Clean Tech**  
+
+---
+
+### 🔹 [forecasterX](https://github.com/MdAjams/forecasterX)  
+✅ Time-series forecasting engine  
+✅ Tech: Python, Statsmodels, ML  
+✅ Domain: **Business Demand & Sales Forecasting**  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL"/>
-  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="50" height="50" alt="Tableau"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MdAjams&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjams&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
 
-# 📊 Business & Analytical Skills  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/data-configuration.png" width="50" height="50" alt="Data Cleaning"/>
-  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50" height="50" alt="Exploratory Data Analysis"/>
-  <img src="https://img.icons8.com/color/48/combo-chart.png" width="50" height="50" alt="Data Visualization"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="50" height="50" alt="Business Intelligence"/>
-  <img src="https
+⭐️ From [Md Ajam](https://github.com/mdAjams)
