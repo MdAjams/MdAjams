@@ -1,27 +1,33 @@
-🚀 Data Analyst | Business Analyst | Enthusiast of Data-Driven Insights  
+🚀 Entry-Level Data Analyst | SQL · Power BI · Python | ML & AI Enthusiast  
 
 ![MasterHead](https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif)
 
 <h1 align="center">Hi 👋, I'm Md Ajam</h1>
-<h3 align="center">Analyzing Data to Unlock Insights and Drive Decision-making</h3>
+<h3 align="center">Turning Data into Insights, Dashboards, and Predictive Solutions</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3M2NkYTIxYjhiOTgyM2Q1NWZiMWU0OTQ1YzgzOGE4MjgxMTUxMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdAjams&label=Profile%20views&color=0e75b6&style=flat" alt="MdAjams" /> </p>
+---
 
-- 🔨 I’ve completed **Data Analyst Internship at Deloitte** and **Business Analyst Internship at Tata Group**.  
-  - **ETL**: Extracted, transformed, and loaded data using **SQL, Excel, and Python**.  
-  - Developed and maintained **interactive Power BI dashboards** for business metrics.  
-  - Collaborated with teams to ensure accurate **data reporting and analysis**.  
-  - Improved **data quality and efficiency** with optimized reporting pipelines.  
+## 👨‍💻 About Me  
 
-- 🚀 Currently learning **Advanced Machine Learning & Time-Series Forecasting**.  
-- 🤝 Looking to collaborate on **Data-Driven Business Solutions** and **Impact Analysis**.  
-- 📊 Ask me about **SQL, EDA, Predictive Modeling, and Business Intelligence**.  
-- 📧 Reach me at **mdajamansari099@gmail.com**.  
-- 🌟 Excited about working on **innovative international data projects** and connecting with global data professionals.  
+📊 Entry-Level Data Analyst with hands-on experience in data analysis, dashboard development, and machine learning projects.  
 
-Feel free to connect with me and explore data-related projects I've worked on!  
+- Worked on real-world datasets to extract insights and support business decision-making  
+- Built **interactive dashboards (Power BI)** to track KPIs and performance  
+- Applied **SQL, Python, and ETL processes** for data cleaning, transformation, and analysis  
+- Developed **ML models** for prediction and business use cases  
 
+🚀 Currently learning **Advanced Machine Learning, AI, and Time-Series Forecasting**  
+
+💡 Interested in:  
+- Data Analytics & Business Intelligence  
+- Machine Learning & Predictive Modeling  
+- Real-world Data-Driven Problem Solving  
+
+📩 Open to **Entry-Level Data Analyst / Business Analyst / Junior ML Roles**  
+
+---
 
 ## 🌐 Connect with Me  
 <p align="center">
@@ -35,54 +41,54 @@ Feel free to connect with me and explore data-related projects I've worked on!
 
 ## 🛠️ Skills  
 
-**Programming & Analytics**  
-`Python` • `SQL` • `Microsoft Excel` • `Git`  
+### 🔹 Data Analytics  
+`SQL` • `Power BI` • `Excel` • `Data Cleaning` • `EDA` • `Data Visualization`  
 
-**Libraries & Frameworks**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
+### 🔹 Programming  
+`Python` • `Pandas` • `NumPy`  
 
-**Data Visualization & Business Intelligence**  
-`Power BI` • `Tableau` • `Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Data Visualization`  
+### 🔹 Machine Learning & AI  
+`Scikit-learn` • `Regression` • `Classification` • `Predictive Modeling`  
 
-**Machine Learning**  
-`Regression` • `Classification`  
+### 🔹 Tools & Technologies  
+`Tableau` • `Git` • `ETL Pipelines`  
 
-**Business & Domain Knowledge**  
-`Finance` • `Healthcare` • `EV Market` • `Business Strategy` • `Business Intelligence`  
-
-**Soft Skills**  
-`Problem Solving` • `Time Management` • `Teamwork` • `Effective Communication`  
-
+### 🔹 Domain Knowledge  
+`Finance` • `Healthcare` • `EV Market` • `Business Intelligence`  
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔹 [Automated-Loan-Eligibility-System-Python-ML-Power-BI](https://github.com/MdAjams/Loan-Eligibility)  
-✅ ML model predicting loan approvals  
+### 🔹 Automated Loan Eligibility System  
+🔗 https://github.com/MdAjams/Loan-Eligibility  
+✅ Built ML model to predict loan approvals  
 ✅ Tech: Python, Pandas, Scikit-learn  
-✅ Business Impact: Helps banks **automate risk assessment**  
+✅ Impact: Automated risk assessment for financial decision-making  
 
 ---
 
-### 🔹 [Lung Cancer Prediction](https://github.com/MdAjams/Lung-Cancer-Prediction)  
-✅ Early-stage detection using ML models  
-✅ Tech: Python, ML, Visualization  
-✅ Domain: **Healthcare analytics**  
+### 🔹 Lung Cancer Prediction  
+🔗 https://github.com/MdAjams/Lung-Cancer-Prediction  
+✅ ML model for early-stage detection  
+✅ Tech: Python, ML, Data Visualization  
+✅ Domain: Healthcare Analytics  
 
 ---
 
-### 🔹 [Indian EV Market Analysis](https://github.com/MdAjams/EV-Market-India)  
-✅ Exploratory Data Analysis on EV adoption in India  
-✅ Dashboard: **Power BI with interactive insights**  
-✅ Domain: **Automobile & Clean Tech**  
+### 🔹 Indian EV Market Analysis  
+🔗 https://github.com/MdAjams/EV-Market-India  
+✅ Performed EDA on EV adoption trends  
+✅ Built interactive Power BI dashboard  
+✅ Domain: Automobile & Clean Tech  
 
 ---
 
-### 🔹 [forecasterX](https://github.com/MdAjams/forecasterX)  
-✅ Time-series forecasting engine  
+### 🔹 forecasterX  
+🔗 https://github.com/MdAjams/forecasterX  
+✅ Time-series forecasting system  
 ✅ Tech: Python, Statsmodels, ML  
-✅ Domain: **Business Demand & Sales Forecasting**  
+✅ Domain: Business Demand Forecasting  
 
 ---
 
@@ -93,6 +99,5 @@ Feel free to connect with me and explore data-related projects I've worked on!
 </p>
 
 ---
-**Looking forward to connecting with fellow data enthusiasts and professionals!**
 
-⭐️ From [Md Ajam](https://github.com/mdAjams)
+⭐️ Focused on building data-driven solutions and growing as a Data Analyst with ML & AI capabilities.
